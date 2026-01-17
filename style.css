@@ -9,25 +9,3 @@ body {
     font-size: 25px;
 }
 
-.button {
-  cursor: pointer;
-  color: forestgreen;
-  text-align: center;
-  margin-right: 1000px;
-  margin-top: 200px;
-}
-
-.button:hover {
-  outline: 2px solid red;
-}
-
-.button:hover {
-  color: red;
-}
-
-
-.subtitle{
-    text-align: center;
-    margin-top: -20px;
-    font-size: 19px;
-}
