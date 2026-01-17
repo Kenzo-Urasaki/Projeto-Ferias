@@ -18,6 +18,10 @@ body {
 }
 
 .button:hover {
+  outline: 2px solid red;
+}
+
+.button:hover {
   color: red;
 }
 
